@@ -54,10 +54,6 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.frak2-1.fna.fbcdn.net/v/t39.30808-6/380945881_3621868918097696_7460243435035117232_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHAa2XKirf9oKYVzbnGV7Ap2ZzSFvw7fljZnNIW_Dt-WAH_PGOFPfOseX5iokjwb65z9jUKTOBfagRNmpaydzjC&_nc_ohc=nl0TKrEPEssAX872gHr&_nc_ht=scontent.frak2-1.fna&oh=00_AfAiyizOJM94P9_m-zGzdDJK6qqtjwqksPSn0NGrnaf2Vw&oe=65127D3D"  />
-
-###
-
-<p align="left">Everything is connected</p>
+<h3 align="center">Everything is connected</h3>
 
 ###
